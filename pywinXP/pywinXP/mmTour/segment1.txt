@@ -1,0 +1,16 @@
+&h_Segment1=Safe and Easy Personal Computing 
+&h_Segment2=Unlock the World of Digital Media
+&h_Segment3=The Connected Home and Office
+&h_Segment4=Best for Business
+&t_helpSupport=Visit the Help and Support Center
+&t_helpUpdate=Learn more about Windows Update 
+&t_windowsBasics=Get help about Windows basics
+&ss_text1=Faster, Smarter, Safer
+&ss_text2=Easier to Learn and Use
+&ss_text3=Better Help for Every Task
+&h_games=Better Help for Every Task
+&h_photoSharing=Faster, Smarter, Safer
+&h_playingMusic=Easier to Learn and Use
+&t_clickToReplay=Click to Replay
+&t_attractLoop=To continue the Tour, click an icon.
+&t_articleRef=For more information: <BR>Click Start, click Help and Support, and type 'walkthroughs' in the Search box.

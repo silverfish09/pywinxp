@@ -1,0 +1,14 @@
+&h_Segment1a=Windows XP Basics
+&h_Segment1b=Windows XP Basics
+&h_Segment1=Safe and Easy Personal Computing 
+&h_Segment2=Unlock the World of Digital Media
+&h_Segment3=The Connected Home and Office
+&h_Segment4=Best for Business
+&t_close=Exit Tour
+&t_musicOff=Music Off
+&t_musicOn=Music On
+&t_restartTour=Restart Tour
+&skipIntro=Skip Intro
+&t_attractLoopMain=To begin the Tour, click a button.
+
+

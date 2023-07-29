@@ -1,0 +1,15 @@
+&h_Segment1=Safe and Easy Personal Computing 
+&h_Segment2=Unlock the World of Digital Media
+&h_Segment3=The Connected Home and Office
+&h_Segment4=Best for Business
+&t_articleMusic=Read 'Music Magic' about playing digital music
+&t_articlePicture=Read 'Put yourself in the Picture!' about digital photography
+&ss_text1=Built-in Photo Sharing
+&ss_text2=Playing Music, Videos, CDs
+&ss_text3=Optimized for Games and DVDs
+&h_games=Optimized for Games and DVDs
+&h_photoSharing=Built-in Photo Sharing and Organization
+&h_playingMusic=Playing Music, Video, CDs
+&t_clickToReplay=Click to Replay
+&t_attractLoop=To continue the Tour, click an icon.
+&t_articleRef=For more information: <BR>Click Start, click Help and Support, and type 'walkthroughs' in the Search box.

@@ -1,0 +1,13 @@
+&h_Segment1=Safe and Easy Personal Computing 
+&h_Segment2=Unlock the World of Digital Media
+&h_Segment3=The Connected Home and Office
+&h_Segment4=Best for Business
+&ss_text1=Robust, Reliable, Compatible
+&ss_text2=On the Road and Around the World
+&ss_text3=More Secure, Easier to Manage
+&h_dependability=Robust, Reliable, Compatible
+&h_mobile=On the Road and Around the World
+&h_secure=More Secure, Easier to Manage
+&t_clickToReplay=Click to Replay
+&t_attractLoop=To continue the Tour, click an icon.
+&t_articleRef=For more information: <BR>Click Start, click Help and Support, and type 'walkthroughs' in the Search box.
